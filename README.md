@@ -7,4 +7,4 @@ This repo contains my solutions to the projects explored in angela yu's 100 days
 
 ### Additional Features
 
-I'm going to try and commit, for the most part, the implementing unittests for all of this code. For now, using the `unittest` module inside of python, but perhaps `selenium` or `pytest` later down the line. 
+Start at day11-20, I implement unit tests for the code using the `unittest` module in python. This is subject to change to maybe `pytest` or `selenium` in the future. But we'll see. 
